@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "POPKID~QL0FwBoS#K_SYm4UZHHHCNN8r9EeOv8nLBaGr3vKpMB6z9S5W4Mc",
+SESSION_ID: process.env.SESSION_ID || "POPKID;;;SN5XxCqL#g5SmzTQ2aQvJt6ExeuvdMyT85YJWGDDiUTYWPIuAnCo",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -31,9 +31,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "255756886492",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Pᴏᴘᴋɪᴅ Xᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "𝕂𝕐𝕃𝔼_𝔹𝕆𝕐 ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pᴏᴘᴋɪᴅ Xᴛᴇᴄʜ*",
 // add bot owner name    
@@ -57,7 +57,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
